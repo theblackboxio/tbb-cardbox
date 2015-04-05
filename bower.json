@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "homepage": "https://github.com/theblackboxio/tbb-cardbox",
   "authors": [
-    "Guillermo <guillermo.blasco.jimenez@gmail.com>"
+    "Guillermo <guillermo@theblackbox.io>"
   ],
+  "main" : "tbb-cardbox.html",
   "description": "Polymer cardbox component",
   "license": "MIT",
   "ignore": [
