@@ -1,0 +1,7 @@
+.idea/
+*.iml
+*~
+dist/
+node_modules/
+.publish/
+src/vendor_components/
