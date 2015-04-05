@@ -7,7 +7,16 @@
   ],
   "main" : "tbb-cardbox.html",
   "description": "Polymer cardbox component",
-  "license": "MIT",
+  "license": "BSD",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.5"
+  },
+  "keywords" : [
+    "Polymer",
+    "web-components",
+    "html",
+    "card"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
@@ -15,7 +24,4 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-    "polymer": "Polymer/polymer#~0.5.5"
-  }
 }
